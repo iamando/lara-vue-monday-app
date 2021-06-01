@@ -1,1 +1,1 @@
-MONDAY APP WITH LARAVEL | VUE JS | MYSQL  📌
+MONDAY: with Laravel and Vue  📌
